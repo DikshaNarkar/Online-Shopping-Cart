@@ -15,7 +15,7 @@ The **Online Shopping Cart** is a **Java-based console application** designed to
 ## **🚀 How to Run the Project?**  
 1️⃣ **Ensure Java is installed** (`java -version` to check).  
 2️⃣ **Clone the repository** using:  
-git clone https://github.com/DikshaNarkar/Online Shopping Cart.git
+git clone https://github.com/DikshaNarkar/Online-Shopping-Cart.git
 3️⃣ **Compile & Run the Program:**  
 javac ShoppingCart.java 
 java ShoppingCart
